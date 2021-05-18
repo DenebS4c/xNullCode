@@ -24,9 +24,9 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Crash | mc.gamesmadeinpola.com [Lobby1 + Coliseo + SkyElements] | #ethicalsq)](https://www.youtube.com/watch?v=IByS7sRK9Go)
-- [Grief PixilPiggies (130 ON) | #ethicalsq](https://www.youtube.com/watch?v=64b5-zVNtVk)
-- [Grief Ghoul Network (100 ON) | #ethicalsq](https://www.youtube.com/watch?v=e9vV53xGH44&t=88s)
+- [R1P akaExtasis [PC INFECTED & RETIRED] | FT. Alex & Escobar | #LinkSquad)](https://www.youtube.com/watch?v=7dG1ZwZ0etA&t=55s)
+- [Grief Galanthusmc (+50 ON) [OP-ALL] | #ViperSQ](https://www.youtube.com/watch?v=uf6zZmy8R6k)
+- [Grief Terravoid [All Network] (+120 ON) | #ViperSQ](https://www.youtube.com/watch?v=Zht-__X8xmE)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/zGhosty)
@@ -41,4 +41,5 @@
 </details>
 
 [twitter]: https://twitter.com/zGhosty_
+[telegram]: https://t.me/zGhosty
 [youtube]: https://youtube.com/zGhosty
