@@ -22,13 +22,6 @@
 
 ---
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="xNullCode GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=DenebS4c&show_icons=true&hide_border=true" />
-
-</details>
-
 [twitter]: https://twitter.com/zGhosty_
 [telegram]: https://t.me/zGhosty
 [youtube]: https://youtube.com/zGhosty
