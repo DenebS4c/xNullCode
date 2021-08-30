@@ -1,9 +1,10 @@
-### Hi Everyone i'm Ghosty aka xNullCode 👋
+### Deneb007, 🕷
 
 ## I'm a Developer!
 
-- 🌱 I’m currently learning python and java
-
+- 🐍 Python (Medium)
+- ☕ Java (Basic)
+- 
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
