@@ -1,7 +1,11 @@
+---
+
 ### Deneb007, 🕷
 
-- 🐍 ### Python (Medium)
-- ☕ ### Java (Basic)
+### Que sabras tu de programacion $$$$$
+
+- 🐍 **Python (Medium)**
+- ☕ **Java (Basic)**
 
 ### Mis Redes Maldito Vico
 
