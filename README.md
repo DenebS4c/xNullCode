@@ -1,6 +1,6 @@
-### Deneb007, 🕷
+### 🕷 Deneb007, 
 
-### Que sabras tu de programacion $$$$$
+### 🗡 Que sabras tu de programacion $$$$$
 
 
 ### 😎 Lenguajes Sexo
