@@ -1,7 +1,7 @@
 ### Deneb007, 🕷
 
-- 🐍 Python (Medium)
-- ☕ Java (Basic)
+- 🐍 ### Python (Medium)
+- ☕ ### Java (Basic)
 
 ### Mis Redes Maldito Vico
 
