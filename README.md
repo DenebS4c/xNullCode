@@ -1,7 +1,6 @@
 ### Deneb007, 🕷
 
-[![Matrix SVG](https://tenor.com/view/hacker-pc-meme-matrix-codes-gif-16730883)]
-
+<img align="left" width="250px" src="https://tenor.com/view/hacker-pc-meme-matrix-codes-gif-16730883" />
 ### Que sabras tu de programacion $$$$$
 
 - 🐍 **Python (Medium)**
