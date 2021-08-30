@@ -25,7 +25,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="xNullCode GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=xNullCode&show_icons=true&hide_border=true" />
+  <img align="left" alt="xNullCode GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=DenebS4c&show_icons=true&hide_border=true" />
 
 </details>
 
